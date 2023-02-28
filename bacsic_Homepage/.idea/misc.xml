@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/drawable/border.xml" value="0.34427083333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/drawable/cyan_rec.xml" value="0.275" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/drawable/cyan_rectangle.xml" value="0.275" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/drawable/edittext_custom.xml" value="0.27625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/drawable/rectangle.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/drawable/rectangle_cardview.xml" value="0.27458333333333335" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/layout/activity_chatbox.xml" value="0.2625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/layout/activity_homepage.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/layout/activity_student_information.xml" value="0.2625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/layout/chatbox.xml" value="0.2679166666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/layout/chatbox_details.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/layout/infomation_student.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/layout/line_chatbox.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/layout/notification.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/bacsic_Homepage/app/src/main/res/layout/notification_details.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
